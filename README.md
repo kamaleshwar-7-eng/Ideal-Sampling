@@ -261,6 +261,8 @@ plt.show()
 
 <img width="1201" height="985" alt="image" src="https://github.com/user-attachments/assets/6fd9f251-57a2-4a65-9df2-856375a706c0" />
 
+Link To Full Screen Output:
+  https://colab.research.google.com/drive/11EATzsEOVC2yKRQjYSSki8M_f8E53Rem#scrollTo=0H3sPd06Eug1&fullscreenOutput=true
 ## RESULTS:
 
 Thus, ideal, natural, and flat-top sampling techniques were successfully implemented using Python. The corresponding sampling waveforms were generated, and the original signal was reconstructed using sinc interpolation.
